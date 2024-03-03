@@ -1,5 +1,5 @@
 # ScreenShots of Arts
 
-![addArt](https://github.com/What3verX/Arts/assets/126445162/77c2947b-9105-4cab-8e61-7cd6582b36ff)
-![arts](https://github.com/What3verX/Arts/assets/126445162/a339b696-f382-4d8b-ac05-b08280e95ae8)
-![art](https://github.com/What3verX/Arts/assets/126445162/0a1c47b7-c7f9-4c4a-937c-0c6be47e5b27)
+![addArt](https://github.com/What3verX/Arts/assets/126445162/7247be79-9ee7-4dd4-9a81-80b1a5557524)
+![arts](https://github.com/What3verX/Arts/assets/126445162/4da733a7-977a-43b8-a941-76573b819eda)
+![art](https://github.com/What3verX/Arts/assets/126445162/faf1e5ee-67a9-4115-806b-2c3cc2be9cfb)
